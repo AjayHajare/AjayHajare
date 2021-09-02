@@ -1,4 +1,4 @@
-- 👋 Hi There, I am Ajay Hajare.
+👋 Hi There, I am Ajay Hajare.
 - 🌱 I am a Software Engineer with 1+ Year of Experience. I have Hackerrank 5⭐ in Java I have Leetcode 2⭐ in Problem Solving
 - 📫 Open to connect @ https://www.linkedin.com/in/ajay-hajare/
 - One of my recent acievement is that I got ✨AIR 1748✨ in GATE 2021 amongst 1,01,922 candidates.
